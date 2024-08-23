@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Buoi1_Mang1C_ConTro_XLNgoaiLe", "Buoi1_Mang1C_ConTro_XLNgoaiLe\Buoi1_Mang1C_ConTro_XLNgoaiLe.vcxproj", "{E575D6CE-EB44-43D0-A389-7AEEEC228F26}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Buoi02_Mang1C_XLNgoaiLe", "Buoi02_Mang1C_XLNgoaiLe\Buoi02_Mang1C_XLNgoaiLe.vcxproj", "{BABA7348-9485-4B9E-B2D8-CCD79048E64E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E575D6CE-EB44-43D0-A389-7AEEEC228F26}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E575D6CE-EB44-43D0-A389-7AEEEC228F26}.Debug|Win32.Build.0 = Debug|Win32
+		{E575D6CE-EB44-43D0-A389-7AEEEC228F26}.Release|Win32.ActiveCfg = Release|Win32
+		{E575D6CE-EB44-43D0-A389-7AEEEC228F26}.Release|Win32.Build.0 = Release|Win32
+		{BABA7348-9485-4B9E-B2D8-CCD79048E64E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BABA7348-9485-4B9E-B2D8-CCD79048E64E}.Debug|Win32.Build.0 = Debug|Win32
+		{BABA7348-9485-4B9E-B2D8-CCD79048E64E}.Release|Win32.ActiveCfg = Release|Win32
+		{BABA7348-9485-4B9E-B2D8-CCD79048E64E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
